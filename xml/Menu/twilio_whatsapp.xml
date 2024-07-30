@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/whatsapp-broadcast</path>
+    <page_callback>CRM_TwilioWhatsapp_Form_TwilioBroadcast</page_callback>
+    <title>TwilioBroadcast</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
