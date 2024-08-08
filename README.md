@@ -1,5 +1,8 @@
 # twilio_whatsapp
 
+# Best way to download
+If you do not want to make any changes mentioned above, go to https://dev.aacsconnect.com/wp-admin/admin.php?page=CiviCRM and download the “twilio_whatsapp” extension. 
+
 # Objective
 To allow the use of Twillio's API to broadcast messages to our contacts.
 
@@ -30,8 +33,5 @@ After installing and enabling the extension,
 3. Press ‘Submit’.
 
 4. Only contacts who has messaged our business account, will receive your message. If they have not messaged previously, it will not be sent. This is due to a security and privacy feature on Whatsapp's end.
-
-# Best way to download
-If you do not want to make any changes mentioned above, go to https://dev.aacsconnect.com/wp-admin/admin.php?page=CiviCRM and download the “twilio_whatsapp” extension. 
 
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
